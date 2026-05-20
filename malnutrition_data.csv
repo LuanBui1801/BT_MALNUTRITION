@@ -1,0 +1,101 @@
+﻿Age_months,Weight_kg,Height_cm,Sleep_hours,Meals_per_day,Diagnosis
+28,14.4,92.6,11.2,5,Normal
+29,14.9,93.8,10.7,6,Normal
+7,6.6,64.5,8.6,3,Mild Malnutrition
+51,20.5,113.3,10.9,4,Normal
+41,18.4,105.4,11.0,6,Normal
+43,8.1,78.1,7.5,2,Malnutrition
+15,5.6,62.7,6.0,1,Malnutrition
+36,16.8,101.1,11.2,4,Normal
+31,7.2,72.1,7.1,3,Malnutrition
+56,22.2,117.1,12.3,4,Normal
+26,6.5,70.7,7.0,2,Malnutrition
+19,12.6,84.8,12.5,5,Normal
+13,11.3,79.8,11.4,4,Normal
+40,11.6,90.0,8.6,4,Mild Malnutrition
+26,14.3,92.3,10.8,6,Normal
+16,5.7,62.4,6.1,1,Malnutrition
+31,10.4,82.0,8.4,3,Mild Malnutrition
+40,7.7,78.7,6.7,3,Malnutrition
+14,12.1,81.9,11.0,4,Normal
+26,9.8,79.1,8.6,4,Mild Malnutrition
+32,11.2,82.2,8.0,4,Mild Malnutrition
+59,9.6,89.8,6.2,2,Malnutrition
+15,11.9,80.8,11.4,5,Normal
+43,8.0,78.4,6.3,2,Malnutrition
+35,16.9,100.6,10.6,4,Normal
+13,7.4,70.0,9.5,4,Mild Malnutrition
+41,18.0,103.4,11.0,6,Normal
+34,15.7,99.6,11.0,5,Normal
+47,19.7,110.1,9.6,6,Normal
+7,9.8,74.1,10.4,5,Normal
+47,8.8,82.8,5.6,2,Malnutrition
+53,9.3,86.1,5.8,2,Malnutrition
+13,11.0,81.3,11.4,4,Normal
+37,16.9,101.1,12.0,6,Normal
+56,14.4,102.2,7.8,3,Mild Malnutrition
+34,16.0,98.8,9.8,4,Normal
+37,12.0,88.1,8.1,3,Mild Malnutrition
+53,9.3,86.3,6.8,2,Malnutrition
+6,4.9,58.9,7.2,3,Malnutrition
+58,21.5,120.2,12.2,4,Normal
+21,9.3,76.1,9.0,3,Mild Malnutrition
+13,7.3,69.9,8.7,4,Mild Malnutrition
+40,8.1,76.6,7.0,1,Malnutrition
+50,20.4,111.4,10.2,6,Normal
+32,7.3,73.5,5.7,2,Malnutrition
+57,21.7,119.4,11.4,6,Normal
+49,13.4,95.8,9.4,4,Mild Malnutrition
+37,16.9,100.1,12.1,4,Normal
+14,8.0,69.7,9.3,3,Mild Malnutrition
+22,13.7,87.8,11.8,5,Normal
+11,7.3,67.5,7.8,4,Mild Malnutrition
+30,10.3,83.1,7.6,4,Mild Malnutrition
+20,13.5,86.5,10.8,6,Normal
+54,14.2,100.3,8.8,3,Mild Malnutrition
+24,6.3,68.0,7.4,1,Malnutrition
+13,5.2,61.3,6.2,2,Malnutrition
+18,8.6,74.1,7.7,3,Mild Malnutrition
+59,22.1,120.0,11.8,4,Normal
+19,5.8,65.8,6.0,1,Malnutrition
+31,15.8,95.2,11.9,6,Normal
+27,14.1,92.4,10.4,4,Normal
+35,11.4,85.4,9.1,3,Mild Malnutrition
+30,14.7,93.7,12.2,4,Normal
+7,6.7,64.4,8.3,4,Mild Malnutrition
+58,9.5,88.5,7.0,2,Malnutrition
+8,10.4,76.9,11.5,6,Normal
+22,6.3,66.4,5.5,3,Malnutrition
+50,20.1,113.7,10.8,5,Normal
+32,16.0,98.0,11.9,6,Normal
+46,8.5,82.1,7.3,3,Malnutrition
+9,4.9,58.3,7.5,2,Malnutrition
+28,6.9,71.9,7.5,3,Malnutrition
+60,23.1,121.7,10.9,5,Normal
+22,6.2,67.7,6.2,2,Malnutrition
+25,14.2,90.2,9.9,4,Normal
+55,9.2,87.2,6.0,2,Malnutrition
+51,20.9,114.8,11.1,6,Normal
+43,7.9,78.5,5.6,3,Malnutrition
+16,8.0,70.7,8.3,4,Mild Malnutrition
+59,22.0,119.0,11.5,6,Normal
+34,16.9,97.2,10.9,6,Normal
+58,14.6,101.4,7.5,3,Mild Malnutrition
+9,5.2,60.3,7.2,3,Malnutrition
+42,12.2,90.0,8.6,3,Mild Malnutrition
+57,9.7,86.5,6.5,1,Malnutrition
+16,8.4,71.1,8.0,4,Mild Malnutrition
+59,21.8,121.3,10.2,6,Normal
+26,10.1,79.5,8.8,3,Mild Malnutrition
+33,16.5,97.5,9.7,5,Normal
+57,21.7,119.2,9.6,5,Normal
+44,12.4,92.8,8.6,3,Mild Malnutrition
+13,7.8,69.2,9.0,3,Mild Malnutrition
+7,6.6,65.0,9.0,3,Mild Malnutrition
+8,5.1,58.8,7.4,3,Malnutrition
+16,5.1,62.6,6.8,3,Malnutrition
+18,8.7,72.5,8.8,3,Mild Malnutrition
+34,11.4,85.4,8.5,3,Mild Malnutrition
+36,7.4,76.8,5.8,3,Malnutrition
+25,9.9,78.0,9.3,4,Mild Malnutrition
+38,11.6,88.1,7.6,4,Mild Malnutrition
